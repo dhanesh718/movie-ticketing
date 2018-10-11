@@ -2,7 +2,9 @@ body{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
-#sum{
+#card{
+	height: 100px;
+	width: 350px;
 	font-size: x-small;
 	text-align: center;
 	white-space: nowrap; 
@@ -10,8 +12,10 @@ body{
     text-overflow: ellipsis;
 }
 
-#card {
+
+
+#pic {
 	height: 200px;
-	width: 100px;
+	width: 150px;
 }
 

@@ -27,6 +27,6 @@
   to { transform: rotate(360deg); }
 }
 
-h1{
+#nowplaying {
   border: 5px dashed black;
 }
